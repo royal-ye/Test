@@ -1,0 +1,11 @@
+checkpoints
+checkpoints_visual
+datasets
+imgs
+mask
+mask_val
+*.dot
+*.t7
+*.png
+*.jpg
+*.svg
